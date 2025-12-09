@@ -59,12 +59,15 @@
 <img width="457" height="347" alt="image" src="https://github.com/user-attachments/assets/7ca0d02c-40e3-4e61-b10f-015d16eb1c78" />
 
 
-**Mark split up**
 
-<img width="443" height="171" alt="image" src="https://github.com/user-attachments/assets/adef9099-e004-4796-834e-780aff95400c" />
+
 
 
 **RESULT:**
+
+
+<img width="443" height="171" alt="image" src="https://github.com/user-attachments/assets/adef9099-e004-4796-834e-780aff95400c" />
+
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
