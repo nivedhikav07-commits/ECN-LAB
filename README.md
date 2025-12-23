@@ -63,11 +63,13 @@
 
 
 
-**RESULT:**
+**Mark Split-Up**
 
 
-<img width="443" height="171" alt="image" src="https://github.com/user-attachments/assets/adef9099-e004-4796-834e-780aff95400c" />
+![WhatsApp Image 2025-12-23 at 9 52 37 AM](https://github.com/user-attachments/assets/fc6b439f-a825-46f9-9961-6cc708cd1764)
 
+
+**Result**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
